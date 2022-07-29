@@ -1,0 +1,11 @@
+{
+    "drive": {
+        "type": "talonfx",
+        "leftids": [0, 1, 2],
+        "rightids": [3, 4, 5]
+    },
+
+    "oi": {
+        "controller": "ps4"
+    }
+}
